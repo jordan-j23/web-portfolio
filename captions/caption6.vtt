@@ -1,0 +1,184 @@
+WEBVTT
+
+00:00:00.063 --> 00:00:02.200
+In Unit 6 of this course
+
+00:00:02.200 --> 00:00:06.200
+you are introduced to the concept
+of quality control.
+
+00:00:06.200 --> 00:00:11.033
+Quality control is a process that applies
+to all sorts of goods and services.
+
+00:00:11.033 --> 00:00:14.099
+Whenever a product is produced
+or service is provided,
+
+00:00:14.033 --> 00:00:18.099
+it is important for the product or service
+to be of good quality.
+
+00:00:18.100 --> 00:00:22.733
+This concept applies to websites
+just as it applies to other products.
+
+00:00:22.733 --> 00:00:27.033
+Quality control can involve very detailed
+and sophisticated analyses
+
+00:00:27.033 --> 00:00:30.000
+of the process by which
+websites are produced,
+
+00:00:30.000 --> 00:00:32.000
+but it can also be
+a relatively simple process
+
+00:00:32.000 --> 00:00:36.899
+of simply testing the quality
+of the website you've created.
+
+00:00:36.900 --> 00:00:42.666
+In this unit you'll be testing web pages using
+automated tools called validators
+
+00:00:42.666 --> 00:00:45.666
+that check web pages for coding errors.
+
+00:00:45.666 --> 00:00:51.999
+The W3C provides validators for several
+markup languages, including HTML...
+
+00:00:52.000 --> 00:00:55.300
+and CSS.
+
+00:00:55.300 --> 00:01:00.633
+These validators are easy to use, and
+provide three ways to test a web page.
+
+00:01:00.633 --> 00:01:05.533
+You can enter the URL or web address
+of the page you want to check...
+
+00:01:05.533 --> 00:01:10.000
+Or if you want to check a private web page that
+doesn't have a public web address...
+
+00:01:10.000 --> 00:01:14.133
+you can upload your HTML or CSS file...
+
+00:01:14.133 --> 00:01:20.633
+Or you can copy and paste your code
+directly into the validator form.
+
+00:01:20.633 --> 00:01:26.999
+The hard part about using a validator is
+understanding the error messages it gives you.
+
+00:01:27.000 --> 00:01:30.000
+A typical error message in the HTML validator
+
+00:01:30.000 --> 00:01:35.666
+includes the line number where the error occurs,
+and a description of the error.
+
+00:01:35.666 --> 00:01:43.099
+In this case, we have an image on our web page
+but forgot to include an alt attribute.
+
+00:01:43.100 --> 00:01:45.633
+Often if you can fix the first error...
+
+00:01:45.633 --> 00:01:51.333
+that has a cascading effect and the other errors
+down the line will no longer be flagged as errors.
+
+00:01:51.333 --> 00:01:57.833
+So a good strategy is to fix one error
+at a time, then revalidate.
+
+00:01:57.833 --> 00:02:03.366
+Understanding these validators
+gets easier with practice.
+
+00:02:03.366 --> 00:02:09.699
+Validating your HTML and your CSS is important
+because doing so helps to increase the likelihood
+
+00:02:09.700 --> 00:02:16.233
+that your page will display consistently
+across all browsers and platforms.
+
+00:02:16.233 --> 00:02:20.766
+It's also important to check your site
+for accessibility.
+
+00:02:20.766 --> 00:02:26.932
+There are a variety of free accessibility checkers
+available, including WAVE...
+
+00:02:26.933 --> 00:02:30.866
+FAE, and many more.
+
+00:02:30.866 --> 00:02:37.032
+Some accessibility issues
+can be automatically detected.
+
+00:02:37.033 --> 00:02:43.633
+In this example, FAE reports that eight image
+elements don't have an ALT attribute...
+
+00:02:43.633 --> 00:02:47.799
+Some accessibility issues cannot be
+automatically detected.
+
+00:02:47.800 --> 00:02:50.000
+For example, just because you've provided
+alternate text for your images
+
+00:02:50.000 --> 00:02:55.533
+doesn't mean you've provided good alt text.
+
+00:02:55.533 --> 00:02:58.533
+For issues that require human judgment...
+
+00:02:58.533 --> 00:03:04.799
+accessibility checkers will simply provide a warning
+that prompts you to double-check those issues manually
+
+00:03:04.800 --> 00:03:06.733
+to be sure you have them right.
+
+00:03:06.733 --> 00:03:11.699
+While it's important to ensure your website has
+valid code and complies with accessibility standards,
+
+00:03:11.700 --> 00:03:17.100
+a site that passes all these tests
+can still be poorly designed.
+
+00:03:17.100 --> 00:03:20.700
+Another aspect of quality control is asking
+questions like:
+
+00:03:20.700 --> 00:03:25.066
+Can users easily find what they're looking for on
+the site?
+
+00:03:25.066 --> 00:03:29.066
+Can they use the site for its intended purpose?
+
+00:03:29.066 --> 00:03:31.000
+To answers these sorts of questions
+
+00:03:31.000 --> 00:03:35.832
+there's no substitute for observing actual users
+as they interact with your website.
+
+00:03:35.833 --> 00:03:39.033
+This is called usability testing
+
+00:03:39.033 --> 00:03:45.033
+and this unit includes an opportunity for you
+to experience that process and learn how it's done.

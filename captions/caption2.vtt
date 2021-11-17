@@ -1,0 +1,189 @@
+WEBVTT
+
+00:00:00.633 --> 00:00:02.399
+In Unit 2 of this course
+
+00:00:02.400 --> 00:00:08.399
+you will learn the basic elements of
+creating a simple web page using HTML.
+
+00:00:08.400 --> 00:00:13.266
+This unit is all about the content and structure
+of your web pages.
+
+00:00:13.266 --> 00:00:19.266
+It's tempting to think about how you want your
+web page to look, but that comes later.
+
+00:00:19.266 --> 00:00:23.199
+In the next unit you will learn about
+how to make your content look good.
+
+00:00:23.200 --> 00:00:27.366
+But first, you need to create the content.
+
+00:00:27.366 --> 00:00:32.199
+Prior to doing any actual coding,
+you’ll need to consider the site's purpose.
+
+00:00:32.200 --> 00:00:34.066
+Is it to sell?
+
+00:00:34.066 --> 00:00:35.699
+To inform?
+
+00:00:35.700 --> 00:00:38.233
+To entertain?
+
+00:00:38.233 --> 00:00:44.266
+With the site's purpose and target audience in mind,
+you can plan out the site.
+
+00:00:44.266 --> 00:00:47.766
+In this course you'll be creating a portfolio site,
+
+00:00:47.767 --> 00:00:51.766
+and the overall structure of that site
+is essentially planned out for you.
+
+00:00:51.766 --> 00:00:55.666
+But you'll have an opportunity to do
+a pre-planning exercise
+
+00:00:55.667 --> 00:00:58.666
+to at least get you thinking
+about the process.
+
+00:00:58.666 --> 00:01:01.599
+Finally, it will be time to code.
+
+00:01:01.600 --> 00:01:06.666
+The primary language that web pages are written in
+is HTML.
+
+00:01:06.666 --> 00:01:11.221
+In Unit 1 you learned that HTML has been around
+since the early 1990's
+
+00:01:11.222 --> 00:01:14.966
+and there are several versions of this language.
+
+00:01:14.966 --> 00:01:20.799
+In this course you'll be using the latest version,
+HTML5.
+
+00:01:20.800 --> 00:01:24.033
+No special software is necessary.
+
+00:01:24.034 --> 00:01:29.032
+All you really need to start creating web pages right now
+is a simple text editor...
+
+00:01:29.033 --> 00:01:31.099
+a web browser...
+
+00:01:31.100 --> 00:01:34.166
+and a bit of coding know-how.
+
+00:01:34.166 --> 00:01:38.366
+In HTML5, the only tags that are required
+
+00:01:38.367 --> 00:01:44.365
+are the doctype tag, which tells the browser
+which version of HTML you're using...
+
+00:01:44.366 --> 00:01:50.266
+And the title tag, which shows up in the title bar
+of the browser window.
+
+00:01:50.266 --> 00:01:57.299
+Of course, if you only used these two tags, you
+wouldn't have a very interesting web page.
+
+00:01:57.300 --> 00:02:02.066
+In this unit you will learn a variety of
+other tags as well, including...
+
+00:02:02.066 --> 00:02:03.599
+Headings...
+
+00:02:03.600 --> 00:02:05.533
+Subheadings...
+
+00:02:05.533 --> 00:02:07.633
+Paragraphs...
+
+00:02:07.633 --> 00:02:10.333
+Ordered lists...
+
+00:02:10.333 --> 00:02:14.566
+And unordered lists...
+
+00:02:14.566 --> 00:02:19.132
+A common example of a list that appears on most
+web pages is a navigation menu,
+
+00:02:19.133 --> 00:02:25.499
+which is essentially a list of the web pages
+that comprise the site.
+
+00:02:25.500 --> 00:02:31.733
+You'll use HTML list tags to create
+a navigation menu for your portfolio site.
+
+00:02:31.733 --> 00:02:36.001
+Of course, since this unit is about content,
+not presentation,
+
+00:02:36.002 --> 00:02:40.000
+it won't look like the navigation menus
+you're accustomed to.
+
+00:02:40.001 --> 00:02:43.600
+But again, that will come later.
+
+00:02:43.600 --> 00:02:47.133
+You'll also learn how to add links to web pages.
+
+00:02:47.133 --> 00:02:55.966
+For example, a navigation menu isn't just a list of
+web pages – it's a list of links to web pages.
+
+00:02:55.966 --> 00:02:59.366
+You’ll also learn how to add tables to your site.
+
+00:02:59.366 --> 00:03:05.299
+Tables are great for showing relationships
+between data using rows and columns.
+
+00:03:05.300 --> 00:03:08.000
+All of the tags we've talked about so far
+
+00:03:08.001 --> 00:03:13.800
+have been around for a long time,
+in some cases since the very first version of HTML.
+
+00:03:13.800 --> 00:03:20.800
+You'll also have an opportunity to explore some of
+the brand new tags that are introduced in HTML5
+
+00:03:20.801 --> 00:03:22.100
+including semantic tags like...
+
+00:03:23.733 --> 00:03:25.999
+
+
+00:03:26.000 --> 00:03:32.366
+and many more, each of which marks up a
+specific region of the web page.
+
+00:03:32.366 --> 00:03:35.566
+Another exciting new feature in HTML5
+
+00:03:35.567 --> 00:03:40.566
+is that you can now add audio or video
+to your web pages with very little code.
+
+00:03:40.566 --> 00:03:47.699
+In fact, you might even be watching this video
+in an HTML5 video format.

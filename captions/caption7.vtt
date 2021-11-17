@@ -1,0 +1,182 @@
+WEBVTT
+
+00:00:00.063 --> 00:00:02.000
+In Unit 7 of this course
+
+00:00:02.001 --> 00:00:05.800
+you will be exploring the wide variety
+of tools that are available
+
+00:00:05.800 --> 00:00:08.800
+to help people publish content on the web.
+
+00:00:08.800 --> 00:00:12.000
+Throughout this course, you have learned
+to create websites by writing code,
+
+00:00:12.000 --> 00:00:16.233
+including HTML, CSS, and JavaScript.
+
+00:00:16.233 --> 00:00:20.933
+Being able to understand websites at a
+code level is a valuable skill for anyone,
+
+00:00:20.933 --> 00:00:27.633
+but is especially essential if you might be doing
+web design or development as part of your future career.
+
+00:00:27.633 --> 00:00:31.000
+Virtually every organization
+uses the web to do its work
+
+00:00:31.000 --> 00:00:33.666
+so knowledge of HTML, CSS, and JavaScript
+
+00:00:33.666 --> 00:00:38.899
+are highly desirable and
+marketable skills for many jobs.
+
+00:00:38.900 --> 00:00:43.366
+Although it's important to understand
+the code behind the scenes, let's face it.
+
+00:00:43.366 --> 00:00:47.232
+Developing all your web pages by hand
+can be pretty time consuming.
+
+00:00:47.233 --> 00:00:51.000
+This is why there are a variety
+of web authoring tools available,
+
+00:00:51.000 --> 00:00:54.466
+such as Kompozer and Adobe Dreamweaver.
+
+00:00:54.466 --> 00:01:00.000
+Web authoring tools allow you to create a web page
+using a familiar, easy-to-use interface,
+
+00:01:00.000 --> 00:01:02.799
+much like a word processing program.
+
+00:01:02.800 --> 00:01:07.000
+Just type in your text,
+select a few options from the menu or toolbar,
+
+00:01:07.000 --> 00:01:11.066
+and all of the code gets written for you
+on the back-end.
+
+00:01:11.066 --> 00:01:17.000
+Most web authoring tools these days
+create valid, standards-compliant code,
+
+00:01:17.000 --> 00:01:20.932
+but you might still want to do some editing
+to the code the tool generates
+
+00:01:20.933 --> 00:01:26.366
+and most tools provide you with the ability
+to switch back and forth between a visual design view...
+
+00:01:26.366 --> 00:01:28.499
+Code view...
+
+00:01:28.500 --> 00:01:33.366
+or a split view where you can work
+with both views simultaneously.
+
+00:01:33.366 --> 00:01:37.000
+All of the features of web pages
+that you've been learning to code by hand
+
+00:01:37.000 --> 00:01:43.232
+can be done through menus, buttons,
+and dialog boxes with these tools.
+
+00:01:43.233 --> 00:01:47.266
+You can also get that perfect look and feel
+
+00:01:47.266 --> 00:01:53.266
+by selecting different options from a dialog box,
+rather than typing in CSS code from scratch.
+
+00:01:53.266 --> 00:01:58.066
+These tools also provide a rich variety of
+other features for managing websites,
+
+00:01:58.066 --> 00:02:00.000
+including automatically uploading
+changes to your site
+
+00:02:00.000 --> 00:02:04.899
+as well as letting you view
+the relationships between pages.
+
+00:02:04.900 --> 00:02:08.833
+Also, there are a growing number
+of tools available on-line
+
+00:02:08.833 --> 00:02:12.833
+that enable novice users to create websites
+simply by selecting a template
+
+00:02:12.833 --> 00:02:16.499
+and entering their content
+into web-based form fields.
+
+00:02:16.500 --> 00:02:21.933
+This includes content management systems
+such as Drupal, Joomla, and WordPress...
+
+00:02:21.933 --> 00:02:25.733
+Blogging software such as Movable Type and Blogger...
+
+00:02:25.733 --> 00:02:31.066
+Wiki software such as MediaWiki,
+the software behind Wikipedia…
+
+00:02:31.066 --> 00:02:37.666
+And other website publishing tools such as
+Google Sites and Yahoo! SiteBuilder.
+
+00:02:37.666 --> 00:02:42.666
+This unit will give you an opportunity to
+explore each of these tools and services,
+
+00:02:42.666 --> 00:02:46.866
+and to consider their implications
+for careers in web design and development.
+
+00:02:46.866 --> 00:02:49.032
+What are the implications?
+
+00:02:49.033 --> 00:02:52.000
+With all of these tools available
+to help people and organizations
+
+00:02:52.000 --> 00:02:56.399
+to create and manage websites
+without knowing anything about HTML...
+
+00:02:56.400 --> 00:03:00.433
+does that mean everything you've learned
+in this course has been a waste of time?
+
+00:03:00.433 --> 00:03:02.499
+Not at all!
+
+00:03:02.500 --> 00:03:08.066
+Each of the tools and services described in this lesson
+ultimately delivers content to the browser
+
+00:03:08.066 --> 00:03:14.432
+in HTML, stylized with CSS,
+with behavior added using JavaScript.
+
+00:03:14.433 --> 00:03:19.999
+As long as there's a World Wide Web, these
+technologies will likely be at the heart of that Web,
+
+00:03:20.000 --> 00:03:28.966
+and there will always be a demand
+for people who understand these technologies.

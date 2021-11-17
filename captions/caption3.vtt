@@ -1,0 +1,150 @@
+WEBVTT
+
+00:00:00.079 --> 00:00:02.700
+In Unit 3 of this course
+
+00:00:02.701 --> 00:00:07.100
+you will learn about implementing
+Cascading Style Sheets, or CSS,
+
+00:00:07.100 --> 00:00:11.233
+to beautify the code you created
+in the previous unit.
+
+00:00:11.233 --> 00:00:14.933
+Separating the content and structure
+from the presentation
+
+00:00:14.933 --> 00:00:20.666
+allows you to make aesthetic changes to your pages
+without having to wade through miles of code.
+
+00:00:20.666 --> 00:00:27.332
+In fact, the process of changing a site's
+appearance using CSS can be downright simple.
+
+00:00:27.333 --> 00:00:33.266
+In this unit, you’ll learn to use CSS
+to change the color...
+
+00:00:33.266 --> 00:00:38.166
+And how to change the typography,
+or how the text is presented on the web pages...
+
+00:00:39.166 --> 00:00:42.166
+including font family...
+
+00:00:42.166 --> 00:00:44.099
+font size...
+
+00:00:44.100 --> 00:00:46.000
+line height...
+
+00:00:46.000 --> 00:00:48.500
+and character spacing...
+
+00:00:48.500 --> 00:00:52.966
+to name only a few of the many possibilities.
+
+00:00:52.966 --> 00:00:56.996
+When you apply a new style to an HTML element
+
+00:00:56.997 --> 00:01:02.232
+that change will affect each instance
+of that HTML element in your web page.
+
+00:01:02.233 --> 00:01:08.033
+But what if you only want to change one instance
+of an HTML element?
+
+00:01:08.033 --> 00:01:14.599
+You can do that by adding an id attribute
+to that element in your HTML code...
+
+00:01:14.600 --> 00:01:22.200
+then in your CSS, add a style definition
+specifically for that id...
+
+00:01:22.200 --> 00:01:28.900
+And if you want to change several instances of a
+particular HTML element, but not all of them,
+
+00:01:28.900 --> 00:01:35.700
+you do that by adding a class attribute
+to each of the HTML elements you want to change.
+
+00:01:35.700 --> 00:01:43.000
+Then in your CSS, add a style definition
+specifically for that class...
+
+00:01:43.000 --> 00:01:49.700
+You will also learn how to use pseudo-class
+selectors to add unique styles to elements
+
+00:01:49.700 --> 00:01:56.200
+under certain circumstances, such as when a
+mouse user is hovering over that element...
+
+00:01:56.200 --> 00:02:03.033
+Or when a keyboard user is focused on an
+element by tabbing onto it.
+
+00:02:03.033 --> 00:02:09.966
+And finally, you will learn to use CSS to control
+layout and position of elements on your page.
+
+00:02:09.966 --> 00:02:15.366
+For example, remember the navigation menu you
+added to your portfolio in Unit 2?
+
+00:02:15.366 --> 00:02:19.632
+Well, that didn't look much like a navigation menu,
+did it?
+
+00:02:19.633 --> 00:02:25.066
+It looked like an unordered list of links,
+which is of course exactly what it is.
+
+00:02:25.066 --> 00:02:31.166
+With CSS you can turn off the bullets
+on your list items...
+
+00:02:31.166 --> 00:02:35.499
+Float the list items beside each other horizontally...
+
+00:02:35.500 --> 00:02:40.666
+Add a right margin to each list item
+to create some separation...
+
+00:02:40.666 --> 00:02:43.000
+And lots more.
+
+00:02:43.001 --> 00:02:49.632
+The fun thing about CSS is it never hurts to try
+a variety of properties and see what effect they have.
+
+00:02:49.633 --> 00:02:53.233
+If you don't like the effect, try something else.
+
+00:02:53.233 --> 00:02:56.466
+Take a look at this page.
+
+00:02:56.466 --> 00:03:03.499
+By simply selecting a new style sheet, notice how
+it looks like an entirely different web site now,
+
+00:03:03.500 --> 00:03:08.300
+when in fact the HTML content wasn’t altered
+in any way.
+
+00:03:08.300 --> 00:03:15.200
+The only thing that changed is the appearance,
+and that was done entirely with CSS.
+
+00:03:15.200 --> 00:03:20.633
+The more you play with CSS, the more you'll
+come to appreciate that stylesheets can have a
+
+00:03:20.633 --> 00:03:25.366
+profound impact on the way your website looks
+and feels.

@@ -1,0 +1,163 @@
+WEBVTT
+
+00:00:00.075 --> 00:00:02.933
+In Unit 4 of this course
+
+00:00:02.934 --> 00:00:06.933
+you will learn about adding photos
+and other graphics to your web pages.
+
+00:00:06.933 --> 00:00:12.299
+In order to work with graphics you're going to need
+some sort of image editing program.
+
+00:00:12.300 --> 00:00:18.200
+These come in all sizes and learning curves,
+and range from free to hundreds of dollars.
+
+00:00:18.200 --> 00:00:23.166
+For the purposes of this demonstration,
+I'll be using Adobe Photoshop.
+
+00:00:23.166 --> 00:00:27.999
+You may need to consult the documentation
+of your particular application
+
+00:00:28.000 --> 00:00:32.666
+in order to perform some of the commands
+I'll be showing you.
+
+00:00:32.666 --> 00:00:34.000
+In the first part of this unit
+
+00:00:34.001 --> 00:00:39.432
+we'll begin with a general introduction to web graphics
+and their effective use.
+
+00:00:39.433 --> 00:00:44.433
+Graphics should fit with the purpose,
+organization, and style of the page...
+
+00:00:44.433 --> 00:00:46.399
+should load quickly...
+
+00:00:46.400 --> 00:00:51.399
+and should complement the content of the page,
+not interfere with it.
+
+00:00:51.400 --> 00:00:56.566
+We'll also address copyright concerns
+for the images obtained from other sources.
+
+00:00:56.566 --> 00:01:00.000
+There is a distinct set of ground rules
+you'll need to keep in mind,
+
+00:01:00.001 --> 00:01:05.432
+but when in doubt,
+always get permission from the copyright holder.
+
+00:01:05.433 --> 00:01:10.000
+In the second module of this unit
+you'll learn the basics of digital imagery
+
+00:01:10.001 --> 00:01:15.000
+and the special roles that an image's
+resolution, dimensions, and file format play
+
+00:01:15.001 --> 00:01:19.400
+in determining its quality and file size.
+
+00:01:19.400 --> 00:01:23.266
+These qualities are of particular interest
+to any web designer.
+
+00:01:23.266 --> 00:01:26.466
+By choosing the right format for the image type
+
+00:01:26.467 --> 00:01:30.000
+and by keeping the resolution
+and dimensions to a reasonable size,
+
+00:01:30.001 --> 00:01:33.599
+you can help ensure that your web page,
+including any graphics it contains,
+
+00:01:33.600 --> 00:01:37.199
+loads quickly and doesn't force users to wait.
+
+00:01:37.200 --> 00:01:39.000
+'cause nobody likes to wait.
+
+00:01:39.000 --> 00:01:41.166
+
+00:01:41.166 --> 00:01:44.599
+Images for your web projects can come from anywhere...
+
+00:01:44.599 --> 00:01:46.599
+stock image databases,
+your own digital photography,
+
+00:01:46.600 --> 00:01:51.033
+or even printed material
+(with the help of a scanner).
+
+00:01:51.033 --> 00:01:56.833
+You'll soon discover how to acquire these graphics
+as well as how to crop and resize them.
+
+00:01:56.833 --> 00:02:03.433
+Cropping an image entails cutting out portions of it
+to fundamentally change the composition of the image.
+
+00:02:03.433 --> 00:02:07.699
+Resizing an image keeps all information in the image,
+
+00:02:07.699 --> 00:02:11.699
+but shrinks it down so that
+the graphic fits better within your web page.
+
+00:02:11.700 --> 00:02:17.500
+You'll end up making judicious use of both techniques,
+and many more, in this unit.
+
+00:02:17.500 --> 00:02:22.266
+By the end of this unit,
+you will have created a photo album ...
+
+00:02:22.266 --> 00:02:26.499
+Clickable buttons for your portfolio home page...
+
+00:02:26.500 --> 00:02:32.566
+A favicon, that small icon that appears in the browser tab
+for your web page, among other places...
+
+00:02:32.566 --> 00:02:35.132
+
+
+00:02:35.133 --> 00:02:39.133
+And an eye-catching banner that will appear
+across the top of your website.
+
+00:02:39.133 --> 00:02:41.233
+
+00:02:41.233 --> 00:02:44.433
+As you learn how to create all these images...
+
+00:02:44.433 --> 00:02:48.433
+you'll also learn the HTML code
+for adding them to your web page
+
+00:02:48.433 --> 00:02:52.333
+including techniques for ensuring the images
+are accessible to people who can't see them.
+
+00:02:52.333 --> 00:02:54.399
+
+00:02:54.400 --> 00:03:00.533
+You can also add images to web pages using CSS,
+and you'll learn about that too.
+
+00:03:00.533 --> 00:03:07.166
+This is an especially useful technique for adding images
+that are purely decorative, such as background images.

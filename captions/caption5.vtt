@@ -1,0 +1,191 @@
+WEBVTT
+
+00:00:04.000 --> 00:00:06.000
+In Unit 5 of this course
+
+00:00:06.000 --> 00:00:11.633
+you'll learn how web developers use scripting
+to make their websites more interactive.
+
+00:00:11.633 --> 00:00:15.033
+On today's web, you can shop online...
+
+00:00:15.033 --> 00:00:16.633
+Bank online...
+
+00:00:16.633 --> 00:00:17.899
+Watch videos...
+
+00:00:17.900 --> 00:00:19.733
+Listen to music...
+
+00:00:19.733 --> 00:00:21.733
+Share photos...
+
+00:00:21.733 --> 00:00:23.833
+Chat with friends...
+
+00:00:23.833 --> 00:00:26.466
+Play interactive games...
+
+00:00:26.466 --> 00:00:28.932
+Contribute to the world's collective knowledge...
+
+00:00:28.933 --> 00:00:31.633
+...and on and on.
+
+00:00:31.633 --> 00:00:34.000
+The level of interactivity on today's web
+
+00:00:34.000 --> 00:00:40.466
+would not be possible if we were
+limited to using HTML and CSS.
+
+00:00:40.466 --> 00:00:43.332
+So, we reply on scripts.
+
+00:00:43.332 --> 00:00:48.332
+Scripts are computer programs that are written
+in a variety of different scripting languages.
+
+00:00:48.333 --> 00:00:54.899
+There are two general types of scripts
+for the web, server-side and client-side.
+
+00:00:54.900 --> 00:01:00.933
+Server-side scripts are executed on the server,
+before the web page is delivered to the user.
+
+00:01:00.933 --> 00:01:05.433
+This allows web pages to be custom built
+with every request.
+
+00:01:05.433 --> 00:01:10.000
+In the first module of this unit you will learn
+about a variety of server-side technologies
+
+00:01:10.000 --> 00:01:12.000
+that are working hard
+behind the scenes
+
+00:01:12.000 --> 00:01:18.566
+to assemble and deliver a web page to you
+whenever you enter a web address into your browser.
+
+00:01:18.566 --> 00:01:26.599
+In contrast, client-side scripts are executed in the
+browser, after the web page is already delivered.
+
+00:01:26.600 --> 00:01:30.366
+The most common client-side scripting language
+is JavaScript,
+
+00:01:30.366 --> 00:01:35.366
+and for most of this unit you will be
+learning the basics of writing JavaScript code.
+
+00:01:35.366 --> 00:01:37.399
+
+
+00:01:37.400 --> 00:01:43.100
+Your first scripting activity will be to display a
+simple alert that appears automatically when the
+page is loaded.
+
+00:01:43.100 --> 00:01:44.766
+
+
+00:01:44.766 --> 00:01:49.032
+But you probably don't want an alert to pop up
+every time a user loads a page.
+
+00:01:49.032 --> 00:01:51.032
+That would be annoying.
+
+00:01:51.033 --> 00:01:55.766
+So you'll learn how to show the alert only when a
+user performs some action,
+
+00:01:55.766 --> 00:01:58.000
+for example, clicking on a button.
+
+00:01:58.400 --> 00:02:03.133
+From there, you'll continue to expand your knowledge
+of JavaScript by building a digital clock.
+
+00:02:03.133 --> 00:02:04.499
+
+00:02:04.500 --> 00:02:10.166
+This activity involves all the skills you've learned
+so far in this course, starting with HTML.
+
+00:02:10.166 --> 00:02:13.332
+Even though you'll be building the clock
+using JavaScript,
+
+00:02:13.332 --> 00:02:17.332
+the clock is actually just hours and
+minutes, separated by a colon.
+
+00:02:17.333 --> 00:02:19.333
+It's just HTML – nothing fancy.
+
+00:02:19.333 --> 00:02:20.999
+
+
+00:02:21.000 --> 00:02:25.300
+If you want it to look like a clock,
+you can do that with CSS.
+
+00:02:25.300 --> 00:02:34.800
+For example... We  want our clock
+to have large easy-to-read numbers.
+
+00:02:34.800 --> 00:02:40.333
+So we'll increase font size
+and make the type bold as well.
+
+00:02:40.333 --> 00:02:42.266
+
+
+00:02:42.266 --> 00:02:46.266
+Of course, a clock isn't really a clock
+unless it keeps accurate time.
+
+00:02:46.266 --> 00:02:48.666
+This is where JavaScript comes in.
+
+00:02:48.666 --> 00:02:53.566
+The activities in this unit will provide you with
+all the code you need to update the time...
+
+00:02:53.566 --> 00:02:55.966
+
+
+00:02:55.966 --> 00:03:01.332
+Add leading zeros if hours or minutes
+are less than 10; plus add "am" or "pm"...
+
+00:03:01.333 --> 00:03:03.666
+
+
+00:03:03.666 --> 00:03:06.699
+And continually update the time every second.
+
+00:03:06.700 --> 00:03:12.500
+
+
+00:03:12.500 --> 00:03:20.166
+You'll also learn to use JavaScript to show...
+and hide... content on the page.
+
+00:03:20.166 --> 00:03:25.832
+In the end, you'll have a fully functional
+ – and very cool – digital clock.
+
+00:03:25.833 --> 00:03:27.733
+But more importantly...
+
+00:03:27.733 --> 00:03:33.733
+you'll have gained some valuable experience
+using JavaScript in conjunction with HTML and CSS.
